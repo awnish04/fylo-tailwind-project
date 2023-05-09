@@ -16,4 +16,5 @@ Run Tailwind CLI
 npm run watch
 ```
 
-![Screenshot (172)](https://user-images.githubusercontent.com/64547504/236168220-31ea8d08-ee10-436a-8aab-73cf0cbb8481.png)
+
+![fylo-tailwind-project vercel app_](https://user-images.githubusercontent.com/64547504/237036711-916dee03-1fa7-4bd9-89bf-bcc1a0f8d33d.png)
